@@ -279,3 +279,7 @@ kafka_df.show()
 
 # You can now process or write the data as needed
 
+
+# COMMAND ----------
+
+1
